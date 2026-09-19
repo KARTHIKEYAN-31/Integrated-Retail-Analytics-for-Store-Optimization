@@ -1,0 +1,28 @@
+# Personal Video Presentation Script & Interview Notes (Private / Personal Use Only)
+reports/Video_Presentation_Script.md
+reports/Video_Presentation_and_Interview_Script.md
+Video_Presentation_Script.md
+Video_Presentation_and_Interview_Script.md
+*presentation*
+*Presentation*
+*interview*
+*Interview*
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environments & OS
+venv/
+env/
+.env
+.venv/
+.DS_Store
+Thumbs.db
+*.log

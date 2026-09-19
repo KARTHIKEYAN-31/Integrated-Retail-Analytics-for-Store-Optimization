@@ -1,0 +1,23 @@
+{
+    "Ridge Regression": {
+        "WMAE": 2585.56,
+        "MAE": 2455.71,
+        "RMSE": 4041.32,
+        "R2": 0.9668,
+        "MAPE_%": 9206.44
+    },
+    "Random Forest": {
+        "WMAE": 1370.66,
+        "MAE": 1327.39,
+        "RMSE": 2916.86,
+        "R2": 0.9827,
+        "MAPE_%": 896.26
+    },
+    "LightGBM Regressor (Best)": {
+        "WMAE": 1369.35,
+        "MAE": 1326.97,
+        "RMSE": 2889.8,
+        "R2": 0.983,
+        "MAPE_%": 1056.18
+    }
+}
